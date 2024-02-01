@@ -1,0 +1,12 @@
+.card-people {
+    text-align: center;
+    margin-top: 2em;
+    border: 2px solid rgb(219, 214, 204);
+    padding: 1em;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.card-people:hover {
+    scale: 1.1;
+    cursor:pointer;
+}
